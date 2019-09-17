@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Reto1_Windows/src/main/java"/>
+	<classpathentry kind="src" path="Reto1_Windows/src/test/java"/>
+	<classpathentry kind="lib" path="Reto1_Windows/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/librerias/mockito-core-2.7.22.jar"/>
+	<classpathentry kind="lib" path="C:/librerias/powermock-mockito-release-full-1.5.4-full.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="Reto1_Windows/bin/main"/>
+</classpath>
